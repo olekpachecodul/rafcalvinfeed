@@ -1,0 +1,111 @@
+{
+ "items": {
+  "Archive On Waters|https://archiveonwaters.store/products/15324192899441": {
+   "category": "Bags & accessories",
+   "colours": [
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-11-18T19:17:30+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/10145892303162": {
+   "category": "Footwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-01-16T20:51:22+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/9704897577274": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-10-11T20:03:51+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Justin Reed|https://justinreed.com/products/9786969293114": {
+   "category": "Tops",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-01-17T20:43:10+00:00",
+   "last_seen": "2026-11-13",
+   "price": 300.0,
+   "sold": true
+  },
+  "Street Commerce|https://streetcommerce.shop/products/15510776643903": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-11-10T19:39:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/15510810951999": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-11-10T19:34:07+00:00",
+   "last_seen": "2026-11-13",
+   "price": 125.0,
+   "sold": false
+  },
+  "Sui Generis|https://suigenerisconsignment.com/products/8688676241662": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue",
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-06T21:28:43+00:00",
+   "last_seen": "2026-11-13",
+   "price": 267.0,
+   "sold": true
+  },
+  "Sui Generis|https://suigenerisconsignment.com/products/9372616950014": {
+   "category": "Tops",
+   "colours": [
+    "Black",
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-14T22:38:15+00:00",
+   "last_seen": "2026-11-13",
+   "price": 313.0,
+   "sold": false
+  },
+  "Sui Generis|https://suigenerisconsignment.com/products/9532982919422": {
+   "category": "Tops",
+   "colours": [
+    "Black",
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-21T21:49:46+00:00",
+   "last_seen": "2026-11-13",
+   "price": 951.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9739935580395": {
+   "category": "Bags & accessories",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-06-16T07:10:59+00:00",
+   "last_seen": "2026-11-13",
+   "price": 350.0,
+   "sold": false
+  }
+ }
+}
